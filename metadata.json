@@ -1,0 +1,7 @@
+{
+  "name": "Bistro3D Dash - Restaurant Dish Insights",
+  "description": "A playful, claymorphism-styled dashboard for managing restaurant plates, sales, and menu performance with Gemini-powered insights.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
